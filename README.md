@@ -1,3 +1,7 @@
+# Hello all! I'm Dmitriy Storozhuk and i am deaf pleople. I like to study Unity to use the potential to create a lot of games =)
+
+# About repo and help use it
+
 # AR Foundation Samples
 
 Example projects that use [*AR Foundation 4.1*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html) and demonstrate its functionality with sample assets and components.
